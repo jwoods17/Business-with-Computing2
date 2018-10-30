@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<title></title>
+    </head>
+    <body>
+      <h1>Business with Computing</h1>
+      <h2>Contact Us</h2>
+ 
+<p> <strong> Mrs Irene Karmiotis </strong> </p>
+ <p> Teleephone: +44 (0)28 7012 4798</p>
+ <p> Email: i.karmiotis@ulster.ac.uk</p>
+  
+ <p> <strong> Course Director: Clodagh Hegarty </strong></p>   
+  <p>Telephone: +44 (0)28 7167 5332</p>
+  <p>Email: c.hegarty1@ulster.ac.uk </p>
+     
+      
+      <p> <strong> Where to find us </strong </p>
+      <p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2288.098501107984!2d-7.326553084590144!3d55.0064383803604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485fe22a90b39f83%3A0x5a9bb9a8b3248bb0!2sMagee+College%2C+Northland+Rd%2C+Londonderry+BT48+7JL!5e0!3m2!1sen!2suk!4v1539862891425" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> </p>
+
+    </body>
+</html>
